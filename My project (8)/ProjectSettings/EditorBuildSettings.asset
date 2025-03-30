@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/SempleScence/s1.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/SempleScence/s2.unity
+    guid: 2d403c467216c8c489b46b6110876d5a
   m_configObjects: {}
