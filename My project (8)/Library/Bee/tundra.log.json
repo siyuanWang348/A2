@@ -1,4 +1,4 @@
-{"msg":"init","dagFile":"Library/Bee/Playerc41c0d4a.dag","targets":["Player"]}
+{"msg":"init","dagFile":"Library/Bee/Playercbfe9a27.dag","targets":["Player"]}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"Player","enqueuedNodeIndex":422}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"UnityLinker C:/Users/28247/Documents/GitHub/A2/My project (8)/Library/Bee/artifacts/unitylinker_ber2.traceevents","enqueuedNodeIndex":1,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles C:/Users/28247/Documents/GitHub/A2/My project (8)/Library/Bee/artifacts/WebGL/il2cppOutput/build/GameAssembly.bc","enqueuedNodeIndex":389,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
@@ -391,96 +391,96 @@
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteResponseFile Library/Bee/artifacts/rsp/5362588684057008505.rsp","enqueuedNodeIndex":387,"enqueueingNodeAnnotation":"Lib_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/GameAssembly.bc","enqueueingNodeIndex":388}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles C:/Users/28247/Documents/GitHub/A2/My project (8)/Library/Bee/artifacts/WebGL/il2cppOutput/build/Data/Metadata/global-metadata.dat","enqueuedNodeIndex":390,"enqueueingNodeAnnotation":"CopyFiles C:/Users/28247/Documents/GitHub/A2/My project (8)/Library/Bee/artifacts/WebGL/il2cppOutput/build/GameAssembly.bc","enqueueingNodeIndex":389}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles C:/Users/28247/Documents/GitHub/A2/My project (8)/Library/Bee/artifacts/WebGL/il2cppOutput/build/Data/Resources/mscorlib.dll-resources.dat","enqueuedNodeIndex":391,"enqueueingNodeAnnotation":"CopyFiles C:/Users/28247/Documents/GitHub/A2/My project (8)/Library/Bee/artifacts/WebGL/il2cppOutput/build/Data/Metadata/global-metadata.dat","enqueueingNodeIndex":390}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"GzipMarker builds5/Build/builds5.framework.js.gz","enqueuedNodeIndex":398,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"7z Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.framework.js.unmarked","enqueuedNodeIndex":396,"enqueueingNodeAnnotation":"GzipMarker builds5/Build/builds5.framework.js.gz","enqueueingNodeIndex":398}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"GzipMarker builds13/Build/builds13.framework.js.gz","enqueuedNodeIndex":398,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"7z Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.framework.js.unmarked","enqueuedNodeIndex":396,"enqueueingNodeAnnotation":"GzipMarker builds13/Build/builds13.framework.js.gz","enqueueingNodeIndex":398}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"FrameworkAssembler Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.framework.js","enqueuedNodeIndex":395,"enqueueingNodeAnnotation":"7z Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.framework.js.unmarked","enqueueingNodeIndex":396}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"Link_WebGL_wasm Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.js (+wasm)","enqueuedNodeIndex":393,"enqueueingNodeAnnotation":"FrameworkAssembler Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.framework.js","enqueueingNodeIndex":395}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteResponseFile Library/Bee/artifacts/rsp/8995565923215908413.rsp","enqueuedNodeIndex":392,"enqueueingNodeAnnotation":"Link_WebGL_wasm Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.js (+wasm)","enqueueingNodeIndex":393}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/csharpactions/build.framework.js_mumr.info","enqueuedNodeIndex":394,"enqueueingNodeAnnotation":"FrameworkAssembler Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.framework.js","enqueueingNodeIndex":395}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/csharpactions/builds5.framework.js.gz_kuy5.info","enqueuedNodeIndex":397,"enqueueingNodeAnnotation":"GzipMarker builds5/Build/builds5.framework.js.gz","enqueueingNodeIndex":398}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"GzipMarker builds5/Build/builds5.wasm.gz","enqueuedNodeIndex":401,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"7z Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.wasm.unmarked","enqueuedNodeIndex":399,"enqueueingNodeAnnotation":"GzipMarker builds5/Build/builds5.wasm.gz","enqueueingNodeIndex":401}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/csharpactions/builds5.wasm.gz_lbzf.info","enqueuedNodeIndex":400,"enqueueingNodeAnnotation":"GzipMarker builds5/Build/builds5.wasm.gz","enqueueingNodeIndex":401}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/csharpactions/builds13.framework.js.gz_0eaj.info","enqueuedNodeIndex":397,"enqueueingNodeAnnotation":"GzipMarker builds13/Build/builds13.framework.js.gz","enqueueingNodeIndex":398}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"GzipMarker builds13/Build/builds13.wasm.gz","enqueuedNodeIndex":401,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"7z Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.wasm.unmarked","enqueuedNodeIndex":399,"enqueueingNodeAnnotation":"GzipMarker builds13/Build/builds13.wasm.gz","enqueueingNodeIndex":401}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/csharpactions/builds13.wasm.gz_d90v.info","enqueuedNodeIndex":400,"enqueueingNodeAnnotation":"GzipMarker builds13/Build/builds13.wasm.gz","enqueueingNodeIndex":401}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Temp/EditorBuildOutput/UnityLinkerToEditorData.json","enqueuedNodeIndex":402,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Temp/EditorBuildOutput/MethodMap.tsv","enqueuedNodeIndex":403,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"GzipMarker builds5/Build/builds5.data.gz","enqueuedNodeIndex":408,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"7z Library/Bee/artifacts/WebGL/webgl.data.unmarked","enqueuedNodeIndex":406,"enqueueingNodeAnnotation":"GzipMarker builds5/Build/builds5.data.gz","enqueueingNodeIndex":408}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"GzipMarker builds13/Build/builds13.data.gz","enqueuedNodeIndex":408,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"7z Library/Bee/artifacts/WebGL/webgl.data.unmarked","enqueuedNodeIndex":406,"enqueueingNodeAnnotation":"GzipMarker builds13/Build/builds13.data.gz","enqueueingNodeIndex":408}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"Assemble WebGL Data Library/Bee/artifacts/WebGL/webgl.data","enqueuedNodeIndex":405,"enqueueingNodeAnnotation":"7z Library/Bee/artifacts/WebGL/webgl.data.unmarked","enqueueingNodeIndex":406}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/csharpactions/webgl.data_qnm2.info","enqueuedNodeIndex":404,"enqueueingNodeAnnotation":"Assemble WebGL Data Library/Bee/artifacts/WebGL/webgl.data","enqueueingNodeIndex":405}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/csharpactions/builds5.data.gz_35ks.info","enqueuedNodeIndex":407,"enqueueingNodeAnnotation":"GzipMarker builds5/Build/builds5.data.gz","enqueueingNodeIndex":408}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles builds5/Build/builds5.loader.js","enqueuedNodeIndex":410,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"PreprocessJS Library/Bee/artifacts/WebGLbuilds5.loader.js","enqueuedNodeIndex":409,"enqueueingNodeAnnotation":"CopyFiles builds5/Build/builds5.loader.js","enqueueingNodeIndex":410}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"PreprocessJS builds5/index.html","enqueuedNodeIndex":411,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles builds5/TemplateData/favicon.ico","enqueuedNodeIndex":412,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles builds5/TemplateData/fullscreen-button.png","enqueuedNodeIndex":413,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles builds5/TemplateData/progress-bar-empty-dark.png","enqueuedNodeIndex":414,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles builds5/TemplateData/progress-bar-empty-light.png","enqueuedNodeIndex":415,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles builds5/TemplateData/progress-bar-full-dark.png","enqueuedNodeIndex":416,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles builds5/TemplateData/progress-bar-full-light.png","enqueuedNodeIndex":417,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"PreprocessJS builds5/TemplateData/style.css","enqueuedNodeIndex":418,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles builds5/TemplateData/unity-logo-dark.png","enqueuedNodeIndex":419,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles builds5/TemplateData/unity-logo-light.png","enqueuedNodeIndex":420,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles builds5/TemplateData/webgl-logo.png","enqueuedNodeIndex":421,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
-{"msg":"newNode","annotation":"WriteText Library/Bee/artifacts/csharpactions/builds5.data.gz_35ks.info","index":407}
-{"msg":"newNode","annotation":"WriteText Library/Bee/artifacts/csharpactions/builds5.wasm.gz_lbzf.info","index":400}
-{"msg":"newNode","annotation":"WriteText Library/Bee/artifacts/csharpactions/builds5.framework.js.gz_kuy5.info","index":397}
-{"msg":"newNode","annotation":"CopyFiles builds5/TemplateData/unity-logo-light.png","index":420}
-{"msg":"newNode","annotation":"PreprocessJS builds5/TemplateData/style.css","index":418}
-{"msg":"newNode","annotation":"CopyFiles builds5/TemplateData/progress-bar-full-light.png","index":417}
-{"msg":"newNode","annotation":"CopyFiles builds5/TemplateData/unity-logo-dark.png","index":419}
-{"msg":"newNode","annotation":"PreprocessJS Library/Bee/artifacts/WebGLbuilds5.loader.js","index":409}
-{"msg":"newNode","annotation":"CopyFiles builds5/TemplateData/progress-bar-full-dark.png","index":416}
-{"msg":"newNode","annotation":"CopyFiles builds5/TemplateData/progress-bar-empty-light.png","index":415}
-{"msg":"newNode","annotation":"CopyFiles builds5/TemplateData/progress-bar-empty-dark.png","index":414}
-{"msg":"newNode","annotation":"CopyFiles builds5/TemplateData/fullscreen-button.png","index":413}
-{"msg":"newNode","annotation":"CopyFiles builds5/TemplateData/favicon.ico","index":412}
-{"msg":"newNode","annotation":"PreprocessJS builds5/index.html","index":411}
-{"msg":"runNodeAction","annotation":"WriteText Library/Bee/artifacts/csharpactions/builds5.data.gz_35ks.info","index":407}
-{"msg":"runNodeAction","annotation":"PreprocessJS builds5/TemplateData/style.css","index":418}
-{"msg":"runNodeAction","annotation":"CopyFiles builds5/TemplateData/unity-logo-dark.png","index":419}
-{"msg":"noderesult","processed_node_count":77,"number_of_nodes_ever_queued":422,"annotation":"WriteText Library/Bee/artifacts/csharpactions/builds5.data.gz_35ks.info","index":407,"exitcode":0,"outputfile":"Library\\Bee\\artifacts\\csharpactions\\builds5.data.gz_35ks.info"}
-{"msg":"runNodeAction","annotation":"CopyFiles builds5/TemplateData/progress-bar-full-light.png","index":417}
-{"msg":"runNodeAction","annotation":"PreprocessJS Library/Bee/artifacts/WebGLbuilds5.loader.js","index":409}
-{"msg":"runNodeAction","annotation":"CopyFiles builds5/TemplateData/unity-logo-light.png","index":420}
-{"msg":"runNodeAction","annotation":"WriteText Library/Bee/artifacts/csharpactions/builds5.framework.js.gz_kuy5.info","index":397}
-{"msg":"runNodeAction","annotation":"WriteText Library/Bee/artifacts/csharpactions/builds5.wasm.gz_lbzf.info","index":400}
-{"msg":"noderesult","processed_node_count":79,"number_of_nodes_ever_queued":422,"annotation":"WriteText Library/Bee/artifacts/csharpactions/builds5.framework.js.gz_kuy5.info","index":397,"exitcode":0,"outputfile":"Library\\Bee\\artifacts\\csharpactions\\builds5.framework.js.gz_kuy5.info"}
-{"msg":"runNodeAction","annotation":"CopyFiles builds5/TemplateData/progress-bar-full-dark.png","index":416}
-{"msg":"noderesult","processed_node_count":80,"number_of_nodes_ever_queued":422,"annotation":"WriteText Library/Bee/artifacts/csharpactions/builds5.wasm.gz_lbzf.info","index":400,"exitcode":0,"outputfile":"Library\\Bee\\artifacts\\csharpactions\\builds5.wasm.gz_lbzf.info"}
-{"msg":"noderesult","processed_node_count":83,"number_of_nodes_ever_queued":422,"annotation":"CopyFiles builds5/TemplateData/unity-logo-dark.png","index":419,"exitcode":0,"outputfile":"builds5\\TemplateData\\unity-logo-dark.png"}
-{"msg":"noderesult","processed_node_count":86,"number_of_nodes_ever_queued":422,"annotation":"CopyFiles builds5/TemplateData/progress-bar-full-light.png","index":417,"exitcode":0,"outputfile":"builds5\\TemplateData\\progress-bar-full-light.png"}
-{"msg":"noderesult","processed_node_count":86,"number_of_nodes_ever_queued":422,"annotation":"CopyFiles builds5/TemplateData/unity-logo-light.png","index":420,"exitcode":0,"outputfile":"builds5\\TemplateData\\unity-logo-light.png"}
-{"msg":"runNodeAction","annotation":"CopyFiles builds5/TemplateData/progress-bar-empty-light.png","index":415}
-{"msg":"runNodeAction","annotation":"CopyFiles builds5/TemplateData/progress-bar-empty-dark.png","index":414}
-{"msg":"noderesult","processed_node_count":94,"number_of_nodes_ever_queued":422,"annotation":"CopyFiles builds5/TemplateData/progress-bar-full-dark.png","index":416,"exitcode":0,"outputfile":"builds5\\TemplateData\\progress-bar-full-dark.png"}
-{"msg":"runNodeAction","annotation":"CopyFiles builds5/TemplateData/fullscreen-button.png","index":413}
-{"msg":"runNodeAction","annotation":"CopyFiles builds5/TemplateData/favicon.ico","index":412}
-{"msg":"noderesult","processed_node_count":107,"number_of_nodes_ever_queued":422,"annotation":"CopyFiles builds5/TemplateData/progress-bar-empty-light.png","index":415,"exitcode":0,"outputfile":"builds5\\TemplateData\\progress-bar-empty-light.png"}
-{"msg":"runNodeAction","annotation":"PreprocessJS builds5/index.html","index":411}
-{"msg":"noderesult","processed_node_count":126,"number_of_nodes_ever_queued":422,"annotation":"CopyFiles builds5/TemplateData/progress-bar-empty-dark.png","index":414,"exitcode":0,"outputfile":"builds5\\TemplateData\\progress-bar-empty-dark.png"}
-{"msg":"noderesult","processed_node_count":141,"number_of_nodes_ever_queued":422,"annotation":"CopyFiles builds5/TemplateData/fullscreen-button.png","index":413,"exitcode":0,"outputfile":"builds5\\TemplateData\\fullscreen-button.png"}
-{"msg":"noderesult","processed_node_count":148,"number_of_nodes_ever_queued":422,"annotation":"CopyFiles builds5/TemplateData/favicon.ico","index":412,"exitcode":0,"outputfile":"builds5\\TemplateData\\favicon.ico"}
-{"msg":"newNode","annotation":"CopyFiles builds5/TemplateData/webgl-logo.png","index":421}
-{"msg":"runNodeAction","annotation":"CopyFiles builds5/TemplateData/webgl-logo.png","index":421}
-{"msg":"noderesult","processed_node_count":224,"number_of_nodes_ever_queued":422,"annotation":"CopyFiles builds5/TemplateData/webgl-logo.png","index":421,"exitcode":0,"outputfile":"builds5\\TemplateData\\webgl-logo.png"}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/csharpactions/builds13.data.gz_bw30.info","enqueuedNodeIndex":407,"enqueueingNodeAnnotation":"GzipMarker builds13/Build/builds13.data.gz","enqueueingNodeIndex":408}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles builds13/Build/builds13.loader.js","enqueuedNodeIndex":410,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"PreprocessJS Library/Bee/artifacts/WebGLbuilds13.loader.js","enqueuedNodeIndex":409,"enqueueingNodeAnnotation":"CopyFiles builds13/Build/builds13.loader.js","enqueueingNodeIndex":410}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"PreprocessJS builds13/index.html","enqueuedNodeIndex":411,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles builds13/TemplateData/favicon.ico","enqueuedNodeIndex":412,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles builds13/TemplateData/fullscreen-button.png","enqueuedNodeIndex":413,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles builds13/TemplateData/progress-bar-empty-dark.png","enqueuedNodeIndex":414,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles builds13/TemplateData/progress-bar-empty-light.png","enqueuedNodeIndex":415,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles builds13/TemplateData/progress-bar-full-dark.png","enqueuedNodeIndex":416,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles builds13/TemplateData/progress-bar-full-light.png","enqueuedNodeIndex":417,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"PreprocessJS builds13/TemplateData/style.css","enqueuedNodeIndex":418,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles builds13/TemplateData/unity-logo-dark.png","enqueuedNodeIndex":419,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles builds13/TemplateData/unity-logo-light.png","enqueuedNodeIndex":420,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles builds13/TemplateData/webgl-logo.png","enqueuedNodeIndex":421,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":422}
+{"msg":"newNode","annotation":"WriteText Library/Bee/artifacts/csharpactions/builds13.data.gz_bw30.info","index":407}
+{"msg":"newNode","annotation":"WriteText Library/Bee/artifacts/csharpactions/builds13.wasm.gz_d90v.info","index":400}
+{"msg":"newNode","annotation":"WriteText Library/Bee/artifacts/csharpactions/builds13.framework.js.gz_0eaj.info","index":397}
+{"msg":"newNode","annotation":"CopyFiles builds13/TemplateData/unity-logo-light.png","index":420}
+{"msg":"newNode","annotation":"PreprocessJS Library/Bee/artifacts/WebGLbuilds13.loader.js","index":409}
+{"msg":"newNode","annotation":"CopyFiles builds13/TemplateData/unity-logo-dark.png","index":419}
+{"msg":"newNode","annotation":"PreprocessJS builds13/TemplateData/style.css","index":418}
+{"msg":"newNode","annotation":"CopyFiles builds13/TemplateData/progress-bar-full-light.png","index":417}
+{"msg":"newNode","annotation":"CopyFiles builds13/TemplateData/progress-bar-full-dark.png","index":416}
+{"msg":"newNode","annotation":"CopyFiles builds13/TemplateData/progress-bar-empty-light.png","index":415}
+{"msg":"newNode","annotation":"CopyFiles builds13/TemplateData/progress-bar-empty-dark.png","index":414}
+{"msg":"newNode","annotation":"CopyFiles builds13/TemplateData/fullscreen-button.png","index":413}
+{"msg":"newNode","annotation":"CopyFiles builds13/TemplateData/favicon.ico","index":412}
+{"msg":"newNode","annotation":"PreprocessJS builds13/index.html","index":411}
+{"msg":"runNodeAction","annotation":"WriteText Library/Bee/artifacts/csharpactions/builds13.data.gz_bw30.info","index":407}
+{"msg":"runNodeAction","annotation":"WriteText Library/Bee/artifacts/csharpactions/builds13.wasm.gz_d90v.info","index":400}
+{"msg":"noderesult","processed_node_count":213,"number_of_nodes_ever_queued":422,"annotation":"WriteText Library/Bee/artifacts/csharpactions/builds13.data.gz_bw30.info","index":407,"exitcode":0,"outputfile":"Library\\Bee\\artifacts\\csharpactions\\builds13.data.gz_bw30.info"}
+{"msg":"newNode","annotation":"CopyFiles builds13/TemplateData/webgl-logo.png","index":421}
+{"msg":"runNodeAction","annotation":"CopyFiles builds13/TemplateData/webgl-logo.png","index":421}
+{"msg":"noderesult","processed_node_count":214,"number_of_nodes_ever_queued":422,"annotation":"WriteText Library/Bee/artifacts/csharpactions/builds13.wasm.gz_d90v.info","index":400,"exitcode":0,"outputfile":"Library\\Bee\\artifacts\\csharpactions\\builds13.wasm.gz_d90v.info"}
+{"msg":"runNodeAction","annotation":"WriteText Library/Bee/artifacts/csharpactions/builds13.framework.js.gz_0eaj.info","index":397}
+{"msg":"runNodeAction","annotation":"PreprocessJS Library/Bee/artifacts/WebGLbuilds13.loader.js","index":409}
+{"msg":"noderesult","processed_node_count":215,"number_of_nodes_ever_queued":422,"annotation":"WriteText Library/Bee/artifacts/csharpactions/builds13.framework.js.gz_0eaj.info","index":397,"exitcode":0,"outputfile":"Library\\Bee\\artifacts\\csharpactions\\builds13.framework.js.gz_0eaj.info"}
+{"msg":"runNodeAction","annotation":"CopyFiles builds13/TemplateData/unity-logo-light.png","index":420}
+{"msg":"runNodeAction","annotation":"CopyFiles builds13/TemplateData/unity-logo-dark.png","index":419}
+{"msg":"runNodeAction","annotation":"PreprocessJS builds13/TemplateData/style.css","index":418}
+{"msg":"noderesult","processed_node_count":217,"number_of_nodes_ever_queued":422,"annotation":"CopyFiles builds13/TemplateData/webgl-logo.png","index":421,"exitcode":0,"outputfile":"builds13\\TemplateData\\webgl-logo.png"}
+{"msg":"runNodeAction","annotation":"CopyFiles builds13/TemplateData/progress-bar-full-light.png","index":417}
+{"msg":"runNodeAction","annotation":"CopyFiles builds13/TemplateData/progress-bar-full-dark.png","index":416}
+{"msg":"noderesult","processed_node_count":218,"number_of_nodes_ever_queued":422,"annotation":"CopyFiles builds13/TemplateData/unity-logo-light.png","index":420,"exitcode":0,"outputfile":"builds13\\TemplateData\\unity-logo-light.png"}
+{"msg":"runNodeAction","annotation":"CopyFiles builds13/TemplateData/progress-bar-empty-light.png","index":415}
+{"msg":"noderesult","processed_node_count":219,"number_of_nodes_ever_queued":422,"annotation":"CopyFiles builds13/TemplateData/unity-logo-dark.png","index":419,"exitcode":0,"outputfile":"builds13\\TemplateData\\unity-logo-dark.png"}
+{"msg":"runNodeAction","annotation":"CopyFiles builds13/TemplateData/progress-bar-empty-dark.png","index":414}
+{"msg":"noderesult","processed_node_count":220,"number_of_nodes_ever_queued":422,"annotation":"CopyFiles builds13/TemplateData/progress-bar-full-light.png","index":417,"exitcode":0,"outputfile":"builds13\\TemplateData\\progress-bar-full-light.png"}
+{"msg":"runNodeAction","annotation":"CopyFiles builds13/TemplateData/fullscreen-button.png","index":413}
+{"msg":"runNodeAction","annotation":"CopyFiles builds13/TemplateData/favicon.ico","index":412}
+{"msg":"noderesult","processed_node_count":225,"number_of_nodes_ever_queued":422,"annotation":"CopyFiles builds13/TemplateData/progress-bar-full-dark.png","index":416,"exitcode":0,"outputfile":"builds13\\TemplateData\\progress-bar-full-dark.png"}
+{"msg":"runNodeAction","annotation":"PreprocessJS builds13/index.html","index":411}
+{"msg":"noderesult","processed_node_count":228,"number_of_nodes_ever_queued":422,"annotation":"CopyFiles builds13/TemplateData/progress-bar-empty-light.png","index":415,"exitcode":0,"outputfile":"builds13\\TemplateData\\progress-bar-empty-light.png"}
+{"msg":"noderesult","processed_node_count":229,"number_of_nodes_ever_queued":422,"annotation":"CopyFiles builds13/TemplateData/progress-bar-empty-dark.png","index":414,"exitcode":0,"outputfile":"builds13\\TemplateData\\progress-bar-empty-dark.png"}
+{"msg":"noderesult","processed_node_count":230,"number_of_nodes_ever_queued":422,"annotation":"CopyFiles builds13/TemplateData/fullscreen-button.png","index":413,"exitcode":0,"outputfile":"builds13\\TemplateData\\fullscreen-button.png"}
+{"msg":"noderesult","processed_node_count":231,"number_of_nodes_ever_queued":422,"annotation":"CopyFiles builds13/TemplateData/favicon.ico","index":412,"exitcode":0,"outputfile":"builds13\\TemplateData\\favicon.ico"}
 {"msg":"inputSignatureChanged","annotation":"Assemble WebGL Data Library/Bee/artifacts/WebGL/webgl.data","index":405,"changes":[{"key":"Action","value":"\"C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.45f1c1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.45f1c1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\WebGLPlayerBuildProgram.exe\" \"C:/Program Files/Unity/Hub/Editor/2021.3.45f1c1/Editor/Data/PlaybackEngines/WebGLSupport/Bee;C:/Program Files/Unity/Hub/Editor/2021.3.45f1c1/Editor/Data/Tools/BuildPipeline\" invoke_static_method \"Library\\Bee\\artifacts\\csharpactions\\webgl.data_qnm2.info\"","oldvalue":null},{"key":"InputFileList","value":["Library\\PlayerDataCache\\WebGL\\Data\\boot.config","Library\\PlayerDataCache\\WebGL\\Data\\data.unity3d","Library\\PlayerDataCache\\WebGL\\Data\\RuntimeInitializeOnLoads.json","Library\\PlayerDataCache\\WebGL\\Data\\ScriptingAssemblies.json","Library\\PlayerDataCache\\WebGL\\Data\\sharedassets0.resource","C:\\Users\\28247\\Documents\\GitHub\\A2\\My project (8)\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\data\\Metadata\\global-metadata.dat","C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.45f1c1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\BuildTools\\data\\unity_default_resources","Temp\\StagingArea\\Data\\Resources\\unity_builtin_extra","Library\\Bee\\artifacts\\csharpactions\\webgl.data_qnm2.info","C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.45f1c1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\modules.asset","C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.45f1c1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\UnityEditor.WebGL.Extensions.dll","C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.45f1c1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\UnityEditor.WebGL.Extensions.pdb","C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.45f1c1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\WebGLPlayerBuildProgram.Data.dll","C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.45f1c1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\WebGLPlayerBuildProgram.Data.pdb","C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.45f1c1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\WebGLPlayerBuildProgram.exe"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"Assemble WebGL Data Library/Bee/artifacts/WebGL/webgl.data","index":405}
-{"msg":"newNode","annotation":"GzipMarker builds5/Build/builds5.framework.js.gz","index":398}
-{"msg":"runNodeAction","annotation":"GzipMarker builds5/Build/builds5.framework.js.gz","index":398}
-{"msg":"newNode","annotation":"GzipMarker builds5/Build/builds5.wasm.gz","index":401}
-{"msg":"runNodeAction","annotation":"GzipMarker builds5/Build/builds5.wasm.gz","index":401}
-{"msg":"noderesult","processed_node_count":412,"number_of_nodes_ever_queued":422,"annotation":"PreprocessJS builds5/index.html","index":411,"exitcode":0,"outputfile":"builds5\\index.html"}
-{"msg":"noderesult","processed_node_count":412,"number_of_nodes_ever_queued":422,"annotation":"PreprocessJS builds5/TemplateData/style.css","index":418,"exitcode":0,"outputfile":"builds5\\TemplateData\\style.css"}
-{"msg":"noderesult","processed_node_count":414,"number_of_nodes_ever_queued":422,"annotation":"GzipMarker builds5/Build/builds5.wasm.gz","index":401,"exitcode":0,"outputfile":"builds5\\Build\\builds5.wasm.gz"}
-{"msg":"noderesult","processed_node_count":415,"number_of_nodes_ever_queued":422,"annotation":"GzipMarker builds5/Build/builds5.framework.js.gz","index":398,"exitcode":0,"outputfile":"builds5\\Build\\builds5.framework.js.gz"}
+{"msg":"newNode","annotation":"GzipMarker builds13/Build/builds13.framework.js.gz","index":398}
+{"msg":"runNodeAction","annotation":"GzipMarker builds13/Build/builds13.framework.js.gz","index":398}
+{"msg":"newNode","annotation":"GzipMarker builds13/Build/builds13.wasm.gz","index":401}
+{"msg":"runNodeAction","annotation":"GzipMarker builds13/Build/builds13.wasm.gz","index":401}
+{"msg":"noderesult","processed_node_count":412,"number_of_nodes_ever_queued":422,"annotation":"PreprocessJS builds13/TemplateData/style.css","index":418,"exitcode":0,"outputfile":"builds13\\TemplateData\\style.css"}
+{"msg":"noderesult","processed_node_count":413,"number_of_nodes_ever_queued":422,"annotation":"PreprocessJS builds13/index.html","index":411,"exitcode":0,"outputfile":"builds13\\index.html"}
+{"msg":"noderesult","processed_node_count":414,"number_of_nodes_ever_queued":422,"annotation":"GzipMarker builds13/Build/builds13.framework.js.gz","index":398,"exitcode":0,"outputfile":"builds13\\Build\\builds13.framework.js.gz"}
+{"msg":"noderesult","processed_node_count":415,"number_of_nodes_ever_queued":422,"annotation":"GzipMarker builds13/Build/builds13.wasm.gz","index":401,"exitcode":0,"outputfile":"builds13\\Build\\builds13.wasm.gz"}
 {"msg":"noderesult","processed_node_count":416,"number_of_nodes_ever_queued":422,"annotation":"Assemble WebGL Data Library/Bee/artifacts/WebGL/webgl.data","index":405,"exitcode":0,"outputfile":"Library\\Bee\\artifacts\\WebGL\\webgl.data"}
 {"msg":"inputSignatureChanged","annotation":"7z Library/Bee/artifacts/WebGL/webgl.data.unmarked","index":406,"changes":[{"key":"Action","value":"\"C:/Program Files/Unity/Hub/Editor/2021.3.45f1c1/Editor/Data/Tools/7z.exe\" a -tgzip \"Library/Bee/artifacts/WebGL/webgl.data.unmarked\" \"Library/Bee/artifacts/WebGL/webgl.data\"","oldvalue":null},{"key":"InputFileList","value":["Library\\Bee\\artifacts\\WebGL\\webgl.data"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"7z Library/Bee/artifacts/WebGL/webgl.data.unmarked","index":406}
-{"msg":"noderesult","processed_node_count":417,"number_of_nodes_ever_queued":422,"annotation":"PreprocessJS Library/Bee/artifacts/WebGLbuilds5.loader.js","index":409,"exitcode":0,"outputfile":"Library\\Bee\\artifacts\\WebGLbuilds5.loader.js"}
-{"msg":"newNode","annotation":"CopyFiles builds5/Build/builds5.loader.js","index":410}
-{"msg":"runNodeAction","annotation":"CopyFiles builds5/Build/builds5.loader.js","index":410}
-{"msg":"noderesult","processed_node_count":418,"number_of_nodes_ever_queued":422,"annotation":"CopyFiles builds5/Build/builds5.loader.js","index":410,"exitcode":0,"outputfile":"builds5\\Build\\builds5.loader.js"}
-{"msg":"noderesult","processed_node_count":419,"number_of_nodes_ever_queued":422,"annotation":"7z Library/Bee/artifacts/WebGL/webgl.data.unmarked","index":406,"exitcode":0,"outputfile":"Library\\Bee\\artifacts\\WebGL\\webgl.data.unmarked","stdout":"\r\n7-Zip (z) 24.08 (x64) : Copyright (c) 1999-2024 Igor Pavlov : 2024-08-11\r\n\r\nScanning the drive:\r\n1 file, 20719230 bytes (20 MiB)\r\n\r\nCreating archive: Library/Bee/artifacts/WebGL/webgl.data.unmarked\r\n\r\nAdd new data to archive: 1 file, 20719230 bytes (20 MiB)\r\n\r\n\r\nFiles read from disk: 1\r\nArchive size: 13631545 bytes (14 MiB)\r\nEverything is Ok"}
-{"msg":"newNode","annotation":"GzipMarker builds5/Build/builds5.data.gz","index":408}
-{"msg":"runNodeAction","annotation":"GzipMarker builds5/Build/builds5.data.gz","index":408}
-{"msg":"noderesult","processed_node_count":420,"number_of_nodes_ever_queued":422,"annotation":"GzipMarker builds5/Build/builds5.data.gz","index":408,"exitcode":0,"outputfile":"builds5\\Build\\builds5.data.gz"}
+{"msg":"noderesult","processed_node_count":417,"number_of_nodes_ever_queued":422,"annotation":"PreprocessJS Library/Bee/artifacts/WebGLbuilds13.loader.js","index":409,"exitcode":0,"outputfile":"Library\\Bee\\artifacts\\WebGLbuilds13.loader.js"}
+{"msg":"newNode","annotation":"CopyFiles builds13/Build/builds13.loader.js","index":410}
+{"msg":"runNodeAction","annotation":"CopyFiles builds13/Build/builds13.loader.js","index":410}
+{"msg":"noderesult","processed_node_count":418,"number_of_nodes_ever_queued":422,"annotation":"CopyFiles builds13/Build/builds13.loader.js","index":410,"exitcode":0,"outputfile":"builds13\\Build\\builds13.loader.js"}
+{"msg":"noderesult","processed_node_count":419,"number_of_nodes_ever_queued":422,"annotation":"7z Library/Bee/artifacts/WebGL/webgl.data.unmarked","index":406,"exitcode":0,"outputfile":"Library\\Bee\\artifacts\\WebGL\\webgl.data.unmarked","stdout":"\r\n7-Zip (z) 24.08 (x64) : Copyright (c) 1999-2024 Igor Pavlov : 2024-08-11\r\n\r\nScanning the drive:\r\n1 file, 20718501 bytes (20 MiB)\r\n\r\nCreating archive: Library/Bee/artifacts/WebGL/webgl.data.unmarked\r\n\r\nAdd new data to archive: 1 file, 20718501 bytes (20 MiB)\r\n\r\n\r\nFiles read from disk: 1\r\nArchive size: 13631759 bytes (14 MiB)\r\nEverything is Ok"}
+{"msg":"newNode","annotation":"GzipMarker builds13/Build/builds13.data.gz","index":408}
+{"msg":"runNodeAction","annotation":"GzipMarker builds13/Build/builds13.data.gz","index":408}
+{"msg":"noderesult","processed_node_count":420,"number_of_nodes_ever_queued":422,"annotation":"GzipMarker builds13/Build/builds13.data.gz","index":408,"exitcode":0,"outputfile":"builds13\\Build\\builds13.data.gz"}

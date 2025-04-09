@@ -9,10 +9,6 @@ ScriptsOnlyBuild:
     - s1s2
     - s1s3
     - s3s1
-    Unity.ProBuilder.Editor.dll:
-    - UnityEditor.ProBuilder.ProbuilderMoveTool
-    - UnityEditor.ProBuilder.ProbuilderRotateTool
-    - UnityEditor.ProBuilder.ProbuilderScaleTool
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     Unity.TextMeshPro.dll:
@@ -1469,4 +1465,4 @@ ScriptsOnlyBuild:
   - Assets/SempleScence/s1.unity
   - Assets/SempleScence/s3.unity
   - Assets/SempleScence/s2.unity
-  playerPath: C:/Users/28247/Documents/GitHub/A2/My project (8)/builds5
+  playerPath: C:/Users/28247/Documents/GitHub/A2/My project (8)/builds13
